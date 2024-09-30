@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(227, 230, 230);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 51px;
+}
+
+.sommaire{
+    color: blueviolet;
+}
